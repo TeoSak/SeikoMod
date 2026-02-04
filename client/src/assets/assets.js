@@ -9,7 +9,7 @@ import gmtTwoToneRoseOyster from './gmtTwoToneRoseOyster.jpg';
 import gmtRose from './gmtRose.jpg';
 import gmtRoseOyster from './gmtRoseOyster.jpg';
 import blackArabic39 from './blackArabic39.jpg';
-import blackArabic39Oyster from './blackArabic39Oyster.jpg';
+import blackArabic39Oyster from './temp123.jpg';
 import blackArabic39Second from './blackArabic39Second.jpg';
 import chocoArabic39 from './chocoArabic39.jpg';
 import chocoArabic39Oyster from './chocoArabic39Oyster.jpg';
