@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@keyframes marquee {
+    0% {
+        transform: translateX(100vw);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+.marquee {
+    white-space: nowrap;
+    display: inline-block;
+    animation: marquee 18s linear infinite;
+}
+
+h3 {
+    font-size: 32px;
+    letter-spacing: 3px;
+    font-weight: 700;
+}
